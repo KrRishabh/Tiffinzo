@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "939108786181",
+    "firebase_url": "https://tiffinzo.firebaseio.com",
+    "project_id": "tiffinzo",
+    "storage_bucket": "tiffinzo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939108786181:android:9f5f1514c9635fd6343c6c",
+        "android_client_info": {
+          "package_name": "com.krrishabh.tiffinzo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939108786181-87lmhjvl43qrug2qkksv4acf1ts77m8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJaha108hzLUW0dlQJYNnBJa_UFYRVidg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939108786181-87lmhjvl43qrug2qkksv4acf1ts77m8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
